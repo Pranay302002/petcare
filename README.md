@@ -4,7 +4,7 @@
 
 **Link to our project: https://www.povtech.online/**
 
-## Our Project Documentation and Presentation Video: https://drive.google.com/drive/folders/1jbuJulM9cYyEXhaxa8OoZ4oJpjCnaOd3?usp=sharing
+**Our Project Documentation and Presentation Video: https://drive.google.com/drive/folders/1jbuJulM9cYyEXhaxa8OoZ4oJpjCnaOd3?usp=sharing**
 
 ## Project Title: PetCare
 
@@ -38,6 +38,6 @@ Visit the website: https://www.povtech.online/
 ![WhatsApp Image 2024-03-26 at 12 35 45 AM (5)](https://github.com/Pranay302002/petcare/assets/143688623/a5cf7ea6-c72c-4886-95f5-8a44e989e9e8)
 
 ## Project Partners:
-Eknath Mahadeshwar - https://github.com/vinavini/WeCarePet
+Eknath Mahadeshwar - https://github.com/vinavini/petcare
 
 Om Jadhav - https://github.com/Omjadhav13/petcare
