@@ -40,4 +40,4 @@ Visit the website: https://www.povtech.online/
 ## Project Partners:
 Eknath Mahadeshwar - https://github.com/vinavini/WeCarePet
 
-Om Jadhav - https://github.com/Omjadhav13
+Om Jadhav - https://github.com/Omjadhav13/petcare
