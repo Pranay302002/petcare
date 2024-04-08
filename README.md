@@ -69,6 +69,12 @@ Visit the website: https://www.povtech.online/
 - Eknath Mahadeshwar : https://github.com/vinavini
 - Om Jadhav : https://github.com/Omjadhav13
 
+## Azure Id
+
+- Eknath Mahadeshwar : eknath200680@mccmulund.ac.in
+- Om Jadhav : om200759@mccmulund.ac.in
+- Pranay Chavan : pranay200786@mccmulund.ac.in
+  
 ## Acknowledgements
 
 My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
