@@ -55,7 +55,7 @@ Integrating Azure AI Question and Answering Service using Language Studio into a
 
 
 ## How to use the Project:
-Visit the website: https://www.povtech.online/
+Visit the website: https://www.knightbot.cloud/
 
 ![WhatsApp Image 2024-03-26 at 12 35 45 AM](https://github.com/Pranay302002/petcare/assets/143688623/90016335-d364-4412-b2a9-586fda5178b5)
 ![WhatsApp Image 2024-03-26 at 12 35 45 AM (1)](https://github.com/Pranay302002/petcare/assets/143688623/3c196722-1ed2-4ab8-9c7c-9e582a6c9751)
