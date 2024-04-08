@@ -64,7 +64,7 @@ Visit the website: https://www.povtech.online/
 ![WhatsApp Image 2024-03-26 at 12 35 45 AM (4)](https://github.com/Pranay302002/petcare/assets/143688623/d7900c4f-807f-4dd2-84c1-262f01f6256f)
 ![WhatsApp Image 2024-03-26 at 12 35 45 AM (5)](https://github.com/Pranay302002/petcare/assets/143688623/a5cf7ea6-c72c-4886-95f5-8a44e989e9e8)
 
-## Project Partners:
-Eknath Mahadeshwar - https://github.com/vinavini/petcare
+## Contributors
 
-Om Jadhav - https://github.com/Omjadhav13/petcare
+- Eknath Mahadeshwar : https://github.com/vinavini
+- Om Jadhav : https://github.com/Omjadhav13
