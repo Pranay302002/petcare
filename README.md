@@ -71,9 +71,9 @@ Visit the website: https://www.povtech.online/
 
 ## Azure Id
 
+- Om Jadhav : om200759@mccmulund.ac.in
 - Pranay Chavan : pranay200786@mccmulund.ac.in
 - Eknath Mahadeshwar : eknath200680@mccmulund.ac.in
-- Om Jadhav : om200759@mccmulund.ac.in
   
 ## Acknowledgements
 
