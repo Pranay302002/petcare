@@ -2,7 +2,7 @@
 
 # Important links In this repository, you will find:
 
-**Link to our project: https://www.povtech.online/**
+**Link to our project: https://www.knightbot.cloud/**
 
 **Our Project Documentation and Presentation Video: https://drive.google.com/drive/folders/1jbuJulM9cYyEXhaxa8OoZ4oJpjCnaOd3?usp=sharing**
 
