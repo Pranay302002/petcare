@@ -2,7 +2,7 @@
 
 # Important links In this repository, you will find:
 
-**Link to our project: petscare.azurewebsites.net**
+**Link to our project: [https://petscare.azurewebsites.net](https://petscare.azurewebsites.net)**
 
 **link to our cutom domain: www.knightbot.cloud**
 
